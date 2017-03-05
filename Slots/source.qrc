@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/field.png</file>
+        <file>img/reelSpin-812x196.png</file>
+        <file>sounds/Cutout.wav</file>
+        <file>sounds/lastSlot.wav</file>
+        <file>sounds/slots.wav</file>
+        <file>sounds/win.wav</file>
+        <file>sounds/click.wav</file>
+        <file>img/pay1.png</file>
+        <file>img/pay2.png</file>
+        <file>img/soundOn.png</file>
+        <file>img/soundOff.png</file>
+    </qresource>
+</RCC>
