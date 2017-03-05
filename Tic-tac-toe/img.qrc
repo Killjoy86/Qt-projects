@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cross.png</file>
+        <file>images/toe.png</file>
+        <file>images/background.png</file>
+        <file>images/lineH.png</file>
+        <file>images/lineV.png</file>
+        <file>images/lineD.png</file>
+        <file>images/lineD2.png</file>
+    </qresource>
+</RCC>
